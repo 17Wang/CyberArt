@@ -1,0 +1,20 @@
+﻿[
+  {
+    "ID": "200",
+    "Name": "KUN OS Ⅰ",
+    "Energy": 10,
+    "Description": "KUN OS I是KUN系统所必须的能量元素，由高能化合反应生成，可为能源系统提供10pt能量"
+  },
+  {
+    "ID": "201",
+    "Name": "KUN OS Ⅱ",
+    "Energy": 20,
+    "Description": "KUN OS Ⅱ是KUN系统所必须的能量元素，由高能化合反应生成，可为能源系统提供20pt能量"
+  },
+  {
+    "ID": "202",
+    "Name": "KUN OS Ⅲ",
+    "Energy": 40,
+    "Description": "KUN OS Ⅲ是KUN系统所必须的能量元素，由高能化合反应生成，可为能源系统提供40pt能量"
+  }
+]

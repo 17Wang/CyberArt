@@ -1,0 +1,27 @@
+﻿//Pro为概率,分母为%
+[
+  {
+    "ID": "100",
+    "Name": "铁",
+    "Pro": 80,
+    "Description": "我是个铁"
+  },
+  {
+    "ID": "101",
+    "Name": "铝",
+    "Pro": 60,
+    "Description": "我是个铝"
+  },
+  {
+    "ID": "102",
+    "Name": "钛",
+    "Pro": 30,
+    "Description": "我是个钛"
+  },
+  {
+    "ID": "103",
+    "Name": "KUN碳材料",
+    "Pro": 10,
+    "Description": "我是个KUN碳材料"
+  }
+]
